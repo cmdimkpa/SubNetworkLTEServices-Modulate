@@ -7,7 +7,6 @@ const app = express();
 const PORT = process.env.PORT || 3201
 
 let modulationInterval = 50;
-let axios = require('axios');
 let events = 0;
 
 const modulatePackets = async () => {
