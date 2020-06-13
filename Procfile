@@ -1,1 +1,1 @@
-web: node modulatePackets.js
+worker: node modulatePackets.js
